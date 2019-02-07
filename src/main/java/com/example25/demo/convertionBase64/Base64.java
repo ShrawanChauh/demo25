@@ -31,6 +31,10 @@ public class Base64 {
           if(c1.checking(st)) {
               st=getTinyBase64();
           }
+          /*
+          Hi.. i have made some changes
+          asdfghjksdfghj
+           */
           return  st;
       }
 
